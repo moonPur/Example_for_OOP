@@ -1,0 +1,5 @@
+﻿  Function.cpp
+  OOP_DB.cpp
+C:\Users\white\source\repos\OOP_DB\OOP_DB\OOP_DB.cpp(21,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  OOP_DB.vcxproj -> C:\Users\white\source\repos\OOP_DB\x64\Debug\OOP_DB.exe

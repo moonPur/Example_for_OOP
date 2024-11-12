@@ -1,0 +1,19 @@
+6
+Surname_4  Name_4  Patrinymic_4
+04 04 2004
+Address_4 4
+Surname_2  Name_2  Patrinymic_2
+02 02 2002
+Address_2 2
+Surname_1  Name_1  Patrinymic_1
+01 01 2001
+Address_1 1
+Surname_3  Name_3  Patrinymic_3
+03 03 2003
+Address_3 3
+Surname_6  Name_6  Patrinymic_6
+06 06 2006
+Address_6 6
+Surname_5  Name_5  Patrinymic_5
+01 05 2005
+Address_5 5
